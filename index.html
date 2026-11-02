@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>每日梗~~店.视.剧</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <!-- 首页 -->
+    <section id="view-home">
+      <header class="site-header">
+        <h1 class="site-title" id="siteTitle"></h1>
+        <nav class="cat-grid" id="catGrid"></nav>
+        <p class="notice" id="notice"></p>
+      </header>
+      <h2 style="font-size:20px;">🆕 最近更新</h2>
+      <div id="latest"></div>
+      <div class="page-nav">
+        <a href="#/search">🔍 进入搜索库，查找全部资源</a>
+      </div>
+    </section>
+
+    <!-- 分类子页 -->
+    <section id="view-cat" hidden>
+      <header class="site-header">
+        <h1 class="site-title" id="catTitle"></h1>
+        <nav class="cat-grid" id="catGrid2"></nav>
+        <p class="notice" id="notice2"></p>
+      </header>
+      <div class="result-count" id="catCount"></div>
+      <div id="catList"></div>
+      <div class="page-nav">
+        <a href="#/">🏠 返回主页</a>
+        <a href="#/search">🔍 搜索全部资源</a>
+      </div>
+    </section>
+
+    <!-- 搜索库 -->
+    <section id="view-search" hidden>
+      <header class="site-header">
+        <h1 class="site-title" style="font-size:30px;">🔍 资源搜索库</h1>
+        <p class="notice">搜索全部影视资源的名称、分类、网盘类型与链接</p>
+      </header>
+      <div class="search-box">
+        <input type="search" id="q" placeholder="输入剧名 / 分类 / 网盘链接关键词…">
+      </div>
+      <div class="filters">
+        <select id="fCat"><option value="">全部分类</option></select>
+        <select id="fPan">
+          <option value="">全部网盘</option>
+          <option value="百度网盘">百度网盘</option>
+          <option value="夸克网盘">夸克网盘</option>
+          <option value="阿里云盘">阿里云盘</option>
+          <option value="迅雷云盘">迅雷云盘</option>
+        </select>
+        <select id="fStatus">
+          <option value="">全部状态</option>
+          <option value="updating">更新中</option>
+          <option value="done">完结</option>
+        </select>
+      </div>
+      <div class="result-count" id="searchCount"></div>
+      <div id="results"></div>
+      <div class="page-nav">
+        <a href="#/">🏠 返回主页</a>
+      </div>
+    </section>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+  <script src="router.js"></script>
+</body>
+</html>
