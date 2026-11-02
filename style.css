@@ -1,0 +1,98 @@
+:root {
+  --blue: #2563eb;
+  --orange: #f97316;
+  --bg: #ffffff;
+  --text: #1f2937;
+  --muted: #6b7280;
+  --border: #e5e7eb;
+  --card: #f9fafb;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: "PingFang SC", "Microsoft YaHei", "Segoe UI", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.7;
+}
+.container { max-width: 760px; margin: 0 auto; padding: 48px 24px 80px; }
+
+/* 顶部 */
+.site-header { text-align: left; margin-bottom: 28px; }
+.site-title {
+  font-size: 40px; font-weight: 800; margin: 0 0 20px;
+  color: var(--orange); letter-spacing: 1px;
+}
+.notice { color: var(--muted); font-size: 14px; margin: 20px 0 8px; }
+
+/* 分类模块 */
+.cat-grid {
+  display: flex; flex-wrap: wrap; gap: 14px 28px;
+  margin: 18px 0 10px;
+}
+.cat-chip {
+  font-size: 22px; font-weight: 700; color: var(--blue);
+  text-decoration: none; padding: 6px 4px;
+  border-bottom: 2px solid transparent; transition: all .15s;
+}
+.cat-chip:hover { color: var(--orange); border-bottom-color: var(--orange); }
+
+/* 资源条目 */
+.entry {
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: 12px; padding: 16px 20px; margin: 16px 0;
+}
+.entry-title { margin: 0 0 8px; font-size: 17px; font-weight: 700; }
+.entry-title .cat-badge {
+  float: right; font-size: 12px; font-weight: 500; color: var(--muted);
+  text-decoration: none; background: #eef2ff; border-radius: 999px;
+  padding: 2px 10px; margin-left: 8px;
+}
+.entry-title .cat-badge:hover { color: var(--blue); }
+.status { font-size: 13px; font-weight: 500; margin-left: 8px; }
+.status.updating { color: var(--orange); }
+.status.done { color: #16a34a; }
+
+.link-row { font-size: 14px; margin: 4px 0; word-break: break-all; }
+.pan-type {
+  display: inline-block; font-size: 12px; padding: 0 8px;
+  border-radius: 6px; margin-right: 8px; color: #fff;
+  background: var(--blue); vertical-align: 1px;
+}
+.pan-夸克网盘 { background: #7c3aed; }
+.pan-百度网盘 { background: #2563eb; }
+.pan-阿里云盘 { background: #ea580c; }
+.pan-迅雷云盘 { background: #0891b2; }
+.pan-link { color: var(--blue); text-decoration: none; }
+.pan-link:hover { text-decoration: underline; }
+.code { color: var(--muted); margin-left: 8px; font-size: 13px; }
+.code b { color: #dc2626; }
+
+/* 搜索页 */
+.search-box {
+  display: flex; gap: 10px; margin: 8px 0 18px;
+}
+.search-box input[type="search"] {
+  flex: 1; font-size: 16px; padding: 12px 16px;
+  border: 2px solid var(--border); border-radius: 10px; outline: none;
+}
+.search-box input[type="search"]:focus { border-color: var(--blue); }
+.filters { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
+.filters select {
+  font-size: 14px; padding: 6px 10px; border: 1px solid var(--border);
+  border-radius: 8px; background: #fff; color: var(--text);
+}
+.result-count { color: var(--muted); font-size: 13px; margin: 4px 0 10px; }
+
+.empty { color: var(--muted); text-align: center; padding: 40px 0; }
+
+/* 页脚导航 */
+.page-nav { margin-top: 36px; display: flex; gap: 16px; font-size: 14px; }
+.page-nav a { color: var(--blue); text-decoration: none; }
+.page-nav a:hover { text-decoration: underline; }
+
+@media (max-width: 560px) {
+  .site-title { font-size: 28px; }
+  .cat-chip { font-size: 18px; }
+  .entry-title .cat-badge { float: none; display: inline-block; margin-top: 6px; }
+}
