@@ -29,33 +29,33 @@ const SITE = {
   entries: [
     /* ---- 原有剧目（百度链接已升级为永久分享，提取码 0612） ---- */
     {
-      title: "嫁金钗", cat: "tv", status: "更新至22集",
+      title: "嫁金钗", cat: "tv", status: "完结",
       links: [
         { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=J8HQw358u02ILUk2fHA42g", code: "0612" },
-        { type: "夸克网盘", url: "https://pan.quark.cn/s/ca29d33580c8", code: "" }
+        { type: "夸克网盘", url: "https://pan.quark.cn/s/4e3f467b0e33", code: "" }
       ]
     },
     {
-      title: "小城良方", cat: "tv", status: "更新至20集",
+      title: "小城良方", cat: "tv", status: "完结",
       links: [
         { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=0UYsf7s-h81Etxt59WwmlQ", code: "0612" },
-        { type: "夸克网盘", url: "https://pan.quark.cn/s/616770bdf4b2", code: "" }
+        { type: "夸克网盘", url: "https://pan.quark.cn/s/fc52d5a5870b", code: "" }
       ]
     },
     {
-      title: "玉簪秋", cat: "tv", status: "更新至32集",
+      title: "玉簪秋", cat: "tv", status: "完结",
       links: [
         { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=8tD6YW2EWSDcqOP8OlNmtw", code: "0612" }
       ]
     },
     {
-      title: "尚公主", cat: "tv", status: "更新至16集",
+      title: "尚公主", cat: "tv", status: "更新至23集",
       links: [
         { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=JFokrWARYkWLMiwBt8-F-Q", code: "0612" }
       ]
     },
     {
-      title: "伟大的长征", cat: "tv", status: "更新至33集",
+      title: "伟大的长征", cat: "tv", status: "更新至43集",
       links: [
         { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=CnfZipxhk3zRUXABgGBf1w", code: "0612" }
       ]
@@ -64,14 +64,14 @@ const SITE = {
       title: "解梦", cat: "tv", status: "完结",
       links: [
         { type: "百度网盘", url: "https://pan.baidu.com/s/1qScTwg51k544u5fLXbu3Jw?pwd=2323", code: "2323" },
-        { type: "夸克网盘", url: "https://pan.quark.cn/s/6e976c713dbd", code: "" }
+        { type: "夸克网盘", url: "https://pan.quark.cn/s/119758b4220b", code: "" }
       ]
     },
     {
       title: "美人余", cat: "tv", status: "完结",
       links: [
         { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=F3yvChix4qzvO-UZxBH1ng", code: "0612" },
-        { type: "夸克网盘", url: "https://pan.quark.cn/s/591bf705e226", code: "" }
+        { type: "夸克网盘", url: "https://pan.quark.cn/s/3fb17db58802", code: "" }
       ]
     },
     {
