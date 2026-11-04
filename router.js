@@ -31,7 +31,7 @@ function route() {
   } else {
     document.getElementById("view-home").hidden = false;
     document.title = SITE.title;
-    renderEntries(SITE.entries.slice(0, 8), document.getElementById("latest"));
+    renderEntries(SITE.entries.slice(-50).reverse(), document.getElementById("latest"));
   }
 
   window.scrollTo(0, 0);
