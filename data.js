@@ -1466,5 +1466,927 @@ const SITE = {
         { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=Nl432UsKkxn8ohWc07FRSA", code: "0612" }
       ]
     },
+    /* ---- 日韩剧（153 部，百度永久分享，提取码 0612） ---- */
+    {
+      title: "末路兼职", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=Qw-IqEkFDThGNdg7OOE2Jg", code: "0612" }
+      ]
+    },
+    {
+      title: "白色黑手党时代", cat: "krjp", status: "更至08集",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=Do_dwXQd_Yu_oNnshTDR1Q", code: "0612" }
+      ]
+    },
+    {
+      title: "我的有罪之人", cat: "krjp", status: "更至04集",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=Dz_mPcv7wh-4ytjQmaTHXQ", code: "0612" }
+      ]
+    },
+    {
+      title: "百日谎言", cat: "krjp", status: "更至07集",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=TXQFQ8b8XF6xRlcJO9e1iQ", code: "0612" }
+      ]
+    },
+    {
+      title: "不是你的恋爱", cat: "krjp", status: "更至13集",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=eXvRn9HTZVpM8YcPfOKV5w", code: "0612" }
+      ]
+    },
+    {
+      title: "恋爱博士", cat: "krjp", status: "更至08集",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=wZLy4x3_kzn7ZjF-v9dL-g", code: "0612" }
+      ]
+    },
+    {
+      title: "挑情丑闻", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=qdD13hvEeHhsf56BYlz7Eg", code: "0612" }
+      ]
+    },
+    {
+      title: "财阀X刑警 第二季", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=MOmE5avhbkUGSkfllqXvig", code: "0612" }
+      ]
+    },
+    {
+      title: "中头奖还是要上班", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=OGAlnXfFkC_m5PL7TdFTOg", code: "0612" }
+      ]
+    },
+    {
+      title: "韩国制造 第二季", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=_Yg2ma_5CE2XZXatZVGb9Q", code: "0612" }
+      ]
+    },
+    {
+      title: "杀手妈咪", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=PQujaEPIt5fjAtnQ0GpWbw", code: "0612" }
+      ]
+    },
+    {
+      title: "现在不是出轨的问题", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=-2lMSbtjkazlaWWCRiORwg", code: "0612" }
+      ]
+    },
+    {
+      title: "鼠惑", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=0tIaoNMBw_E_gw4zx6jIHA", code: "0612" }
+      ]
+    },
+    {
+      title: "毛骨悚然的恋爱", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=Rpz5MBOwnOKd4wY683XE7A", code: "0612" }
+      ]
+    },
+    {
+      title: "公寓黑风暴", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=ZaQa74342UOD8YvCA5QILg", code: "0612" }
+      ]
+    },
+    {
+      title: "给你梦想", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=3TN2xbcrEKKlkWO9iWYpiw", code: "0612" }
+      ]
+    },
+    {
+      title: "杀人者的购物中心2", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=jgDc0bsZ4nVWyApM1Ms-Ag", code: "0612" }
+      ]
+    },
+    {
+      title: "金特务：本色回归", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=eIIhd52C0CvRx9qWT3kSow", code: "0612" }
+      ]
+    },
+    {
+      title: "检察官室的提案", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=pEodNnOJvLnXm2WTXmBbvw", code: "0612" }
+      ]
+    },
+    {
+      title: "明天也要上班！", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=mlMkaTVxdGaqAQAHwfXqGQ", code: "0612" }
+      ]
+    },
+    {
+      title: "鬼谜东宫", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=lYZoFwNjX3XfH8181BB8nQ", code: "0612" }
+      ]
+    },
+    {
+      title: "鬼怪十周年特辑", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=8yJy82GCrLhodxqtMl64mQ", code: "0612" }
+      ]
+    },
+    {
+      title: "新进职员姜会长", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=vtwb_cDQzAf2iqOlB5V6nQ", code: "0612" }
+      ]
+    },
+    {
+      title: "气体人 第一号", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=JllcRGV9_Mmrq09VTtW4kQ", code: "0612" }
+      ]
+    },
+    {
+      title: "最后一排的小孩", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=ZR-ixQHjxhp3mFuMzEl_IA", code: "0612" }
+      ]
+    },
+    {
+      title: "铁拳教育", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=3DVqkUfVQ3YKL-HM1TkOgg", code: "0612" }
+      ]
+    },
+    {
+      title: "我的王室死对头", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=rKBE5nkTglrELZC9ooPSnw", code: "0612" }
+      ]
+    },
+    {
+      title: "努力克服自卑的我们", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=i_eoeG79TndBijnv3hSpjw", code: "0612" }
+      ]
+    },
+    {
+      title: "浪漫的绝对值", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=3r_k8C9jLkiB0K9GuKIRRg", code: "0612" }
+      ]
+    },
+    {
+      title: "赌金", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=MsD6Bh0tcxQYBAwDEDpnHw", code: "0612" }
+      ]
+    },
+    {
+      title: "稻草人", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=xh6H403H4Fs7DzTs01e4aQ", code: "0612" }
+      ]
+    },
+    {
+      title: "隐秘的监察", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=gJMPg51Gn_AYUu4kmVuPeg", code: "0612" }
+      ]
+    },
+    {
+      title: "超能路人甲", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=041JJqWzdok-cZ-bFdKCrA", code: "0612" }
+      ]
+    },
+    {
+      title: "21世纪大君夫人", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=ABZ2taLFNKNcqL8PBWLIaw", code: "0612" }
+      ]
+    },
+    {
+      title: "柔美的细胞小将 第三季", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=t-THBPkn-Ju3aTiYLUgIxg", code: "0612" }
+      ]
+    },
+    {
+      title: "神与律师事务所", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=xWSeSFeAxq3vlvu4sXjRLw", code: "0612" }
+      ]
+    },
+    {
+      title: "权欲之巅", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=nD4VChTNZ0j0TjnWgjxykQ", code: "0612" }
+      ]
+    },
+    {
+      title: "在你的灿烂季节", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=MYsqNo69wmHXMQaW0oOWew", code: "0612" }
+      ]
+    },
+    {
+      title: "魔女之吻", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=azCDxmovO0_LMSrlsXIpag", code: "0612" }
+      ]
+    },
+    {
+      title: "未婚男女的效率恋爱", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=4eHEFION-U2xVQRA_ZmFEA", code: "0612" }
+      ]
+    },
+    {
+      title: "依然闪亮", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=8wf-0JZlirDdqtz_NwO7Yw", code: "0612" }
+      ]
+    },
+    {
+      title: "订阅男友", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=sLkJrdi_dDpNZhkP5RBa6w", code: "0612" }
+      ]
+    },
+    {
+      title: "荣耀：她们的法庭", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=x5yEp84PF7QRfya70UfuhQ", code: "0612" }
+      ]
+    },
+    {
+      title: "亲爱的盗贼大人", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=z2cmpKzdKVKsqjkt2OSF_Q", code: "0612" }
+      ]
+    },
+    {
+      title: "给你宇宙", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=lc3KAjUQXu2-mGySmTamDg", code: "0612" }
+      ]
+    },
+    {
+      title: "今天开始是人类", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=-sfvrrH_bJu5ONUg3lR9YQ", code: "0612" }
+      ]
+    },
+    {
+      title: "偶像疯子", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=EbsZ0GTX5xGX8FFz2X1DXQ", code: "0612" }
+      ]
+    },
+    {
+      title: "爱情怎么翻译", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=uELgZEiTkCP3TTXoYXTXtQ", code: "0612" }
+      ]
+    },
+    {
+      title: "韩国制造", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=slbfG2_Xj70v1anvgC2a8w", code: "0612" }
+      ]
+    },
+    {
+      title: "模范出租车3", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=O4oEyqFrYgzARkeBUQsYSw", code: "0612" }
+      ]
+    },
+    {
+      title: "现金英雄", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=TyMpmsy1jnOHBkbdbeO4gQ", code: "0612" }
+      ]
+    },
+    {
+      title: "一吻爆炸", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=XUXDhWLanLoLL_ERVWeLLg", code: "0612" }
+      ]
+    },
+    {
+      title: "不幸的幸会", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=qyLwbsleUDzHti-dXRrI0Q", code: "0612" }
+      ]
+    },
+    {
+      title: "亲爱的X", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=ovmU5WO1CoAEpGXa22TYzA", code: "0612" }
+      ]
+    },
+    {
+      title: "操控游戏", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=xAC33ZnZfd-MpMKeQHnWzA", code: "0612" }
+      ]
+    },
+    {
+      title: "换乘恋爱4", cat: "krjp", status: "更至15集",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=QWhfPyHHD8-nPoiSJtSE9g", code: "0612" }
+      ]
+    },
+    {
+      title: "灵指", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=_Hjt9HSwHD47svaK55ZY2g", code: "0612" }
+      ]
+    },
+    {
+      title: "体能之巅：百人大挑战3", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=Fuvd6HvS45gxD7pBdj7KUg", code: "0612" }
+      ]
+    },
+    {
+      title: "犯罪现场", cat: "krjp", status: "",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=2IMflG19q2axCa8ne3BCbQ", code: "0612" }
+      ]
+    },
+    {
+      title: "杀死你的旅途", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=B1zzW7k69T7o2NQmVZYMNg", code: "0612" }
+      ]
+    },
+    {
+      title: "善良的女人夫世美", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=YDTa4rgFqP1lbT_23CNzVQ", code: "0612" }
+      ]
+    },
+    {
+      title: "许愿吧，精灵", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=I3dhZeuZMZCNd_GgU0RnZA", code: "0612" }
+      ]
+    },
+    {
+      title: "行骗天下KR", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=QXzCkE6XvfoHMwzQbm4QGA", code: "0612" }
+      ]
+    },
+    {
+      title: "暴风圈", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=FCxPzu0UP-BSCyJ7wlq_jQ", code: "0612" }
+      ]
+    },
+    {
+      title: "鱿鱼游戏S1-S3", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=kLVjFmGfVprXSQ-CuXSJqQ", code: "0612" },
+        { type: "夸克网盘", url: "https://pan.quark.cn/s/82ece6dbb582", code: "" }
+      ]
+    },
+    {
+      title: "螳螂", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=Oj1skmqbJDbTrzvNGBNr1A", code: "0612" }
+      ]
+    },
+    {
+      title: "弥留之国的爱丽丝1-3", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=r8V1zoTlg5wOJ013U4y2kA", code: "0612" }
+      ]
+    },
+    {
+      title: "金子般我的明星", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=mgaIPRyZCfq-x7N3G8POIA", code: "0612" }
+      ]
+    },
+    {
+      title: "暴君的厨师", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=eC90Ulb8kpW0eR_qv-k48A", code: "0612" }
+      ]
+    },
+    {
+      title: "十二使者", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=T6PjT6fxMMY3SsMYHGid9g", code: "0612" }
+      ]
+    },
+    {
+      title: "善良的他", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=ggKn_qAQP7nJI-ALBXD-vQ", code: "0612" }
+      ]
+    },
+    {
+      title: "我的女友比我帅", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=8TQNXBMp5Au-tHiyxZS5kQ", code: "0612" }
+      ]
+    },
+    {
+      title: "下流大盗", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=S2m6G6pv9JfhYDIBhIc0Fg", code: "0612" }
+      ]
+    },
+    {
+      title: "退货儿童", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=hYvsAhY89GkP5Yp00tdorQ", code: "0612" }
+      ]
+    },
+    {
+      title: "瑞草洞", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=4H3nJy7UVAX_Gy6sUIB3dA", code: "0612" }
+      ]
+    },
+    {
+      title: "清潭国际高中S2", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=8WX8XWhk23_Xutl_MPWZTQ", code: "0612" }
+      ]
+    },
+    {
+      title: "牵牛和仙女", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=Fc10tOVL7EgYKviauth5cA", code: "0612" }
+      ]
+    },
+    {
+      title: "S-line", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=1RazbfFNLUgGhcbFL7BeEw", code: "0612" }
+      ]
+    },
+    {
+      title: "健将联盟", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=srNriXBcYXR5kXpNtuGTWg", code: "0612" }
+      ]
+    },
+    {
+      title: "我们的电影", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=Cgx0Eg2I_GkUveMpciriyw", code: "0612" }
+      ]
+    },
+    {
+      title: "我夺走了男主的初夜", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=OLDU_7QrW6ZLZO77RwLtZA", code: "0612" }
+      ]
+    },
+    {
+      title: "主妇侦探社", cat: "krjp", status: "更至10集",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=JWhJG7r4YJvM7jOGXrZ2sw", code: "0612" }
+      ]
+    },
+    {
+      title: "拿着手术刀的猎人", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=deE5LXLWnZtgwZj1arZBZw", code: "0612" }
+      ]
+    },
+    {
+      title: "四季之春", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=6kM64UYDiwJZO3z4fB42Iw", code: "0612" }
+      ]
+    },
+    {
+      title: "未知的首尔", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=vJou_O7f-cvS038gm9TuKg", code: "0612" }
+      ]
+    },
+    {
+      title: "劳务师卢武镇", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=QbTFHbrz81u8UMnZfPm9RQ", code: "0612" }
+      ]
+    },
+    {
+      title: "戒酒吧拜托了", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=5jzuEgpEO6JlCvxFgePFng", code: "0612" }
+      ]
+    },
+    {
+      title: "Biong Biong地球游戏厅", cat: "krjp", status: "更至08集",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=pnXSX45SAu2ioUHL2Vffqg", code: "0612" }
+      ]
+    },
+    {
+      title: "ONE：高中英雄们", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=RkRwxKMHCCisJn7iVoIQyQ", code: "0612" }
+      ]
+    },
+    {
+      title: "你的味道", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=rt6bIg4KcP7z2FB6Ya24PQ", code: "0612" }
+      ]
+    },
+    {
+      title: "鬼宫", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=_q_0eo4tq1tIAPQWODGF7Q", code: "0612" }
+      ]
+    },
+    {
+      title: "血谜拼图", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=U4SOZGBxzvrjgh60iF-WCw", code: "0612" }
+      ]
+    },
+    {
+      title: "比天堂更美丽", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=aUZOXwGs9vyReG70HACJPA", code: "0612" }
+      ]
+    },
+    {
+      title: "机智住院医生生活", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=4Bfj_Ki5pJDJnLhlhtGhLw", code: "0612" }
+      ]
+    },
+    {
+      title: "芭妮与哥哥们", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=JrI9a_kefmGRDB2mhV93Kw", code: "0612" }
+      ]
+    },
+    {
+      title: "离婚保险", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=PAuJUonbhXSM3hqzK_yxAg", code: "0612" }
+      ]
+    },
+    {
+      title: "噬亡村S1-S2", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=tykt_nQfnEamUVFuYKwqXw", code: "0612" }
+      ]
+    },
+    {
+      title: "在我死前一周", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=uk9yH30iWq3NN8WEznRkGg", code: "0612" }
+      ]
+    },
+    {
+      title: "协商的技术", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=v6ty0X-NnxSFa7UkLkq4eA", code: "0612" }
+      ]
+    },
+    {
+      title: "宝物岛", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=HpZ2pivSfo0crHE6WEYFIA", code: "0612" }
+      ]
+    },
+    {
+      title: "狂医魔徒", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=YYsWAJiaBaR_DyjBP1F8bw", code: "0612" }
+      ]
+    },
+    {
+      title: "美好的一天", cat: "krjp", status: "07集",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=K-tape2oPuwjm7SCGCokpw", code: "0612" }
+      ]
+    },
+    {
+      title: "恶缘", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=Ouyxq-_TQeEgA_0fLpk21w", code: "0612" }
+      ]
+    },
+    {
+      title: "卧底高中", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=1OKG_ZJDFBjQs49_WA9lIA", code: "0612" }
+      ]
+    },
+    {
+      title: "新乌托邦", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=grhDKsbE4PjXOmYufTyJng", code: "0612" }
+      ]
+    },
+    {
+      title: "那家伙是黑炎龙", cat: "krjp", status: "更至09集",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=xvCcITMGZmp3K6_OV7Vrpg", code: "0612" }
+      ]
+    },
+    {
+      title: "魔女", cat: "krjp", status: "更至10集",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=0JBZbtTpZqkNJvL6wGeYvg", code: "0612" }
+      ]
+    },
+    {
+      title: "善意的竞争", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=4clXAAHD0Rrc4SSasphXBw", code: "0612" }
+      ]
+    },
+    {
+      title: "现在拨打的电话", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=9yEMy7IU60JAW-c_5dVEDA", code: "0612" },
+        { type: "夸克网盘", url: "https://pan.quark.cn/s/bc3bd8500ca4", code: "" }
+      ]
+    },
+    {
+      title: "问问星星吧", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=kDvtgSScNHLux3dbHjHXig", code: "0612" }
+      ]
+    },
+    {
+      title: "揭密最前线", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=Mn--ezdxsC1VZRl6d86I6A", code: "0612" }
+      ]
+    },
+    {
+      title: "加利福尼亚旅馆", cat: "krjp", status: "更至12集",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=NTfHZ-62ica8jFV1JMJPwg", code: "0612" }
+      ]
+    },
+    {
+      title: "苦尽柑来遇见你", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=p794pQPj5f7SGgpGjG9vqw", code: "0612" },
+        { type: "夸克网盘", url: "https://pan.quark.cn/s/993205b1d225", code: "" }
+      ]
+    },
+    {
+      title: "我的完美秘书", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=TsQLTg3MT1QG1cQZZ2fq6w", code: "0612" }
+      ]
+    },
+    {
+      title: "单身即地狱S4", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=iggazUaX4mWHEizn0SIdxQ", code: "0612" }
+      ]
+    },
+    {
+      title: "元敬", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=r1j1WJY-455bgn2hTveg0g", code: "0612" }
+      ]
+    },
+    {
+      title: "入住汉阳", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=LhI8T8S9XNUbqk8I1FdeCA", code: "0612" }
+      ]
+    },
+    {
+      title: "玉氏夫人传", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=nHY1zqRx0XV-leue1luufQ", code: "0612" }
+      ]
+    },
+    {
+      title: "重症外伤中心", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=ZjQeXGawJVTPyKB1Hzflpw", code: "0612" }
+      ]
+    },
+    {
+      title: "纳米布", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=vlEY5ep0atYunM44e3HjZQ", code: "0612" }
+      ]
+    },
+    {
+      title: "奇怪的她", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=O3tdd46ipFU6m8sD_0E3FQ", code: "0612" }
+      ]
+    },
+    {
+      title: "宛如阿修罗", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=CmMs8FvrLz7qROzJ3k6XyA", code: "0612" }
+      ]
+    },
+    {
+      title: "爱在独木桥", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=1gP9PtMeLpDlhXgI99Rbdw", code: "0612" }
+      ]
+    },
+    {
+      title: "热血司祭2", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=ncAeW-8hmH1QWV-YklZaBQ", code: "0612" }
+      ]
+    },
+    {
+      title: "家族计划", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=_4OZuXE2zz9aJZVrfqPdtQ", code: "0612" }
+      ]
+    },
+    {
+      title: "假释审查官李韩信", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=ZPCQNwf8HOfl0hYPq9DX9w", code: "0612" }
+      ]
+    },
+    {
+      title: "血之游戏3", cat: "krjp", status: "更至11集",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=tY8lfg9WduSijtcDlaKy7Q", code: "0612" }
+      ]
+    },
+    {
+      title: "照明商店", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=MUzukeZE4uo5hGBXtqXCvA", code: "0612" }
+      ]
+    },
+    {
+      title: "结婚吧YOU", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=XnQryitqQp0JW2tDp289mA", code: "0612" }
+      ]
+    },
+    {
+      title: "Face Me", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=vcENIfnNAxy4as79qOSJ5g", code: "0612" }
+      ]
+    },
+    {
+      title: "酒醉罗曼史", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=H0dC6LLoFUR3tYepno297Q", code: "0612" }
+      ]
+    },
+    {
+      title: "一箱情缘", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=AxT9Go6DTRFqrWy-CC3QMQ", code: "0612" }
+      ]
+    },
+    {
+      title: "阿瑜陀耶女王", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=1a2ba0nrX4lcNvkTTtQU5Q", code: "0612" }
+      ]
+    },
+    {
+      title: "重组家庭", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=cWzT6KOXh2ZfHV_B4vQnOQ", code: "0612" }
+      ]
+    },
+    {
+      title: "江南重案组", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=32lLjHWJ7wL46MCXUW5k2Q", code: "0612" }
+      ]
+    },
+    {
+      title: "丧尸宇宙2：新血", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=3I-ztlgdlJG1jslX8yExTg", code: "0612" }
+      ]
+    },
+    {
+      title: "正年", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=1HfHKsr8Ofdb8EqjdXTPDA", code: "0612" }
+      ]
+    },
+    {
+      title: "贞淑的推销", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=FrdjglRf4v1IcL_NbPW_FQ", code: "0612" }
+      ]
+    },
+    {
+      title: "如此亲密的背叛者", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=LfYJsY1mHxUhp3T5dIZOEA", code: "0612" }
+      ]
+    },
+    {
+      title: "解开跆拳道的诅咒", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=9GRLvocWXLvkat4ZmA0g_Q", code: "0612" }
+      ]
+    },
+    {
+      title: "好或坏的东载", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=XAWWXPw78YY81uVgMmcwIg", code: "0612" }
+      ]
+    },
+    {
+      title: "从地狱来的法官", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=zzSiKDPl2Q3ErKkYZ3Fnjw", code: "0612" }
+      ]
+    },
+    {
+      title: "如龙", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=pAwjRaph23gTudTclfewTQ", code: "0612" }
+      ]
+    },
+    {
+      title: "住宅区的两人", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=CXg4Tiz0IRvykLBh_sf8qA", code: "0612" }
+      ]
+    },
+    {
+      title: "狗话", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=EOuSN5gOlQege-4PJalpoQ", code: "0612" }
+      ]
+    },
+    {
+      title: "致我的解离", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=egfALC37Nd9pWO1qteQ6Yw", code: "0612" }
+      ]
+    },
+    {
+      title: "首尔破笑组", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=GkuQVzwQ4arf2aAAywWpcA", code: "0612" }
+      ]
+    },
+    {
+      title: "大都市爱情法", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=wxG3FAVwt83-AVOmor8-lQ", code: "0612" }
+      ]
+    },
+    {
+      title: "爱过之后来临的", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=QNFIsJAD-rmCeLSgOJRElA", code: "0612" }
+      ]
+    },
+    {
+      title: "地狱公使2", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=9J5kyQVLkFDG-KUJnTLgkg", code: "0612" }
+      ]
+    },
+    {
+      title: "弹子球游戏S2", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=_juMwjIiYcw_0C9JXwu_Fg", code: "0612" }
+      ]
+    },
+    {
+      title: "妈妈朋友的儿子", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=QYve6kRRX7shUrs_KKQZZw", code: "0612" }
+      ]
+    },
+    {
+      title: "DNA Lover", cat: "krjp", status: "完结",
+      links: [
+        { type: "百度网盘", url: "https://pan.baidu.com/netdisk/share?surl=7gLiKlfv2akkfF82WUwj0w", code: "0612" }
+      ]
+    },
   ]
 };
