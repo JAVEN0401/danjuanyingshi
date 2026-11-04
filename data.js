@@ -16,7 +16,7 @@
 
 const SITE = {
   title: "每日梗~~店.视.剧",
-  notice: "新的基本都有！找不到的可以加+V：danjuanyingshi 私信免费代找，后续会更新资源库（百度网盘提取码统一 0612，夸克无需提取码）",
+  notice: "新的基本都有！找不到的可以加+V：danjuanyingshi 私信免费代找，后续会更新资源库",
 
   categories: [
     { id: "movie",   name: "电影",   emoji: "🎬" },
